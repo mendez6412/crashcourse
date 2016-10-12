@@ -11,7 +11,7 @@
     - cd Desktop
     - mkdir number_game
     - cd number_game
-    - touch number_game
+    - touch guess.py
     - atom .
 
 # Python Basics (15-20 minutes)
@@ -46,6 +46,7 @@
     - Why should we set this to a variable?
     - place in a function
   - Check guess compared to secret number
+  - Play the game
 
 # Improving the Game
   - # of Guesses
@@ -59,3 +60,4 @@
   - Which types did we end up using to make our game?
   - What are some ways you could improve your game?
   - What are some things you learned to do with Python through making this game?
+  - What were the two reasons we used print()?
