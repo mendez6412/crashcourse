@@ -4,7 +4,7 @@
   - Students
     - background with programming
 
-# Running a Python Application
+# Getting Ready (10 minutes)
   - Install Atom via https://atom.io/
   - Setting Up
     - command + space --> terminal
@@ -14,27 +14,36 @@
     - touch number_game
     - atom .
 
-# Python Basics
+# Python Basics (15-20 minutes)
   - Python3 Shell
     - Variables (x = 1, x = 'a', etc)
+     - What is a variable?
+     - Why might variables be useful?
     - Functions (def fancy(x))
       - return
       - print
+      - When might it be better to return vs. print?
     - Types (String, Float, Int, Bool, Class Object)
+       - Which types might we be using to build our number guessing game?
     - Loops (While, For)
     - Other Keywords (and, if, lambda, import)
     - Explain dunder name == dunder main
 
-# Creating the Game
+# Creating the Game (40 minutes)
+  - We will be making the game so that the human player has to guess the number the computer is thinking of.
   - We need a secret number
+    - How could we have the computer choose the number?
     - import random
     - set secret number variable
+      - Why do we need to set this as a variable? Why can't we just say we want a random number every time?
     - place in a function
+    - What does putting this in a function help us with?
   - Testing
   - We need to get a guess
     - What type does input return?
       - How do we convert that? int()
     - set guess variable
+    - Why should we set this to a variable?
     - place in a function
   - Check guess compared to secret number
 
@@ -45,3 +54,8 @@
     - Have the computer tell you if your guess was high or low
   - You hide a number from the computer
   - OOP
+
+#Wrap Up and Reflection (10 minutes)
+  - Which types did we end up using to make our game?
+  - What are some ways you could improve your game?
+  - What are some things you learned to do with Python through making this game?
