@@ -1,6 +1,18 @@
-# Introduction
+# Introduction (5-10 minutes)
   - Shannon and Tommy
     - backgrounds
+  - Students
+    - background with programming
+
+# Running a Python Application
+  - Install Atom via https://atom.io/
+  - Setting Up
+    - command + space --> terminal
+    - cd Desktop
+    - mkdir number_game
+    - cd number_game
+    - touch number_game
+    - atom .
 
 # Python Basics
   - Python3 Shell
@@ -11,14 +23,7 @@
     - Types (String, Float, Int, Bool, Class Object)
     - Loops (While, For)
     - Other Keywords (and, if, lambda, import)
-
-
-# Running a Python Application
-  - Install Atom via https://atom.io/
-  - Setting Up
-    - mkdir number_game
-  - Explain dunder name == dunder main
-
+    - Explain dunder name == dunder main
 
 # Creating the Game
   - We need a secret number
