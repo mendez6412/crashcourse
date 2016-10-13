@@ -17,16 +17,19 @@
 # Python Basics (15-20 minutes)
   - Python3 Shell
     - Variables (x = 1, x = 'a', etc)
-     - What is a variable?
-     - Why might variables be useful?
+      - What is a variable?
+      - Why might variables be useful?
+    - Types (String, Float, Int, Bool, Class Object)
+      - Which types might we be using to build our number guessing game?
+    - Operators (!=, <, >, ==)
+      - and
     - Functions (def fancy(x))
       - return
       - print
+      - example: if KEYWORD
       - When might it be better to return vs. print?
-    - Types (String, Float, Int, Bool, Class Object)
-       - Which types might we be using to build our number guessing game?
     - Loops (While, For)
-    - Other Keywords (and, if, lambda, import)
+    - Other Keywords (import, (lambda))
     - Explain dunder name == dunder main
 
 # Creating the Game (40 minutes)
