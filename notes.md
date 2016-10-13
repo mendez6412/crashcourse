@@ -24,6 +24,7 @@
       - Why might variables be useful?
     - Operators (!=, <, >, ==, %)
       - and
+      - % (modulo) operator yields the remainder from the division of the first argument by the second
     - Functions (def fancy(x))
       - return
       - print
