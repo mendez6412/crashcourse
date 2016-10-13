@@ -16,9 +16,16 @@
 
 # Python Basics (15-20 minutes)
   - Python3 Shell
+    - Types (String, Float, Int, Bool, Class Object)
+      - Which types might we be using to build our number guessing game?
+      - List/Array, Dict, (Tuple)
     - Variables (x = 1, x = 'a', etc)
-     - What is a variable?
-     - Why might variables be useful?
+
+      - What is a variable?
+      - Why might variables be useful?
+    - Operators (!=, <, >, ==, %)
+      - and
+      - % (modulo) operator yields the remainder from the division of the first argument by the second
     - Functions (def fancy(x))
       - return
       - print
