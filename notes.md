@@ -6,6 +6,7 @@
 
 # Getting Ready (10 minutes)
   - Install Atom via https://atom.io/
+  - Install python3 via gist
   - Setting Up
     - command + space --> terminal
     - cd Desktop
@@ -20,7 +21,6 @@
       - Which types might we be using to build our number guessing game?
       - List/Array, Dict, (Tuple)
     - Variables (x = 1, x = 'a', etc)
-
       - What is a variable?
       - Why might variables be useful?
     - Operators (!=, <, >, ==, %)
@@ -29,11 +29,10 @@
     - Functions (def fancy(x))
       - return
       - print
+      - example: if KEYWORD
       - When might it be better to return vs. print?
-    - Types (String, Float, Int, Bool, Class Object)
-       - Which types might we be using to build our number guessing game?
     - Loops (While, For)
-    - Other Keywords (and, if, lambda, import)
+    - Other Keywords (import, (lambda))
     - Explain dunder name == dunder main
 
 # Creating the Game (40 minutes)
@@ -48,7 +47,7 @@
   - Testing
   - We need to get a guess
     - What type does input return?
-      - How do we convert that? int() Why do we need to convert this to an int?
+      - How do we convert that? int()
     - set guess variable
     - Why should we set this to a variable?
     - place in a function
